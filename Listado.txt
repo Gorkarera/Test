@@ -1,12 +1,1 @@
-Git
-    Jenkins
-
-    Sonarqube
-
-    Artifactory
-
-    Maven
-
-
-
-KiKano
+Aprendiendo poco a poco
